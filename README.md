@@ -33,9 +33,8 @@ Reusable Terraform modules for automated provisioning and deployment on AWS.
 ---
 
 ## 💬 **Let's Connect**
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Twitter**: [@YourTwitterHandle](#)
-- **Email**: [vikash@example.com](mailto:vikash@example.com)
+- **LinkedIn**: [https://www.linkedin.com/in/vikash-rawat-625b8466/]
+- **Email**: [vikash.rawat1090@gmail.com]
 
 ---
 
